@@ -36,6 +36,10 @@ This is a list of axios related libraries and resources. If you have a suggestio
 * [redux-axios-middleware](https://github.com/svrcekmichal/redux-axios-middleware) - Redux middleware for fetching data with axios HTTP client
 * [@axios-use/react](https://github.com/axios-use/axios-use-react) - A React hook plugin for Axios. Lightweight, cancelable and less change.
 
+### Vue
+
+* [@axios-use/vue](https://github.com/axios-use/axios-use-vue) - A Vue composition utilities for Axios. Lightweight, cancelable and less change.
+
 ### Unit testing
 
 * [axiosist](https://github.com/Gerhut/axiosist) - Axios based supertest: convert node.js request handler to axios adapter, used for node.js server unit test.
